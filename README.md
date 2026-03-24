@@ -46,13 +46,12 @@ Don't let rate limits and image pull caps break your production deployments.
 ---
 
 ## Contributing
-Found a hidden cost, a pricing update, or want to improve the formulas? PRs are highly welcome! Let's help the developer community save infrastructure capital.
+This repository serves as an open directory. Did a cloud provider change their pricing? Did you build a better cost calculator? Let's keep this data accurate for the community!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewCalculator`)
-3. Commit your Changes (`git commit -m 'Add new calculator logic'`)
-4. Push to the Branch (`git push origin feature/NewCalculator`)
-5. Open a Pull Request
+To contribute an update or add a new tool:
+1. Fork this repository
+2. Edit the `README.md` file with the updated pricing data or tool link
+3. Open a Pull Request with a brief explanation of the change
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
